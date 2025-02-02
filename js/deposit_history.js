@@ -318,7 +318,7 @@ console.log(statu)
   
   
       if (idfront == 'no image') {
-        imgpr.src = "https://monese.asia/assets/images/default.png"
+        imgpr.src = "https://res.cloudinary.com/dbcsyo0wi/image/upload/v1738491333/boyohqoqf7xojvralype.png"
       }
       else {
         imgpr.src = idfront;
