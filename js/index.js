@@ -35,7 +35,7 @@ firebase.auth().onAuthStateChanged(function(user) {
 signUp.addEventListener('click', (event) => {
   
 if(userid == "a"){
-  window.location.href = "http://127.0.0.1:5500/registrtation.html";
+  window.location.href = "registrtation.html";
 }
 else{
   window.location.href = "dashboard.html";
