@@ -265,7 +265,7 @@ function edit(key) {
   
   
       if (idfront == 'no image') {
-        imgpr.src = "https://monese.asia/assets/images/default.png"
+        imgpr.src = "https://res.cloudinary.com/dbcsyo0wi/image/upload/v1738491333/boyohqoqf7xojvralype.png"
       }
       else {
         imgpr.src = idfront;
@@ -275,7 +275,7 @@ function edit(key) {
   
   
       if (idback == 'no image') {
-        imgpr2.src = "https://monese.asia/assets/images/default.png"
+        imgpr2.src = "https://res.cloudinary.com/dbcsyo0wi/image/upload/v1738491333/boyohqoqf7xojvralype.png"
       }
       else {
         imgpr2.src = idback;
