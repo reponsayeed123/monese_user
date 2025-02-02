@@ -436,7 +436,7 @@ sub2.addEventListener('click', (event) => {
  
  
          }).then(() => {
-             window.location.href = "/deposit-history.html";
+             window.location.href = "deposit-history.html";
          });
          //alert(userid);
     
