@@ -63,7 +63,7 @@ signUp.addEventListener('click', (event) => {
             }).then(() =>{
                 localStorage.setItem('email',email);
                 localStorage.setItem('username',username);
-                window.location.href = "/user_data.html";
+                window.location.href = "user_data.html";
             });
             //alert('Registration successful');
             //console.log(userCredential.user.uid);
