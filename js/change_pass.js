@@ -136,7 +136,7 @@ signUp.addEventListener('click', (event) => {
             conuntry:conuntry
            
         }).then(() =>{
-          window.location.href = "/dashboard.html";
+          window.location.href = "dashboard.html";
       });
         // Update successful.
 
