@@ -313,7 +313,7 @@ signUp.addEventListener('click', (event) => {
 
 
         }).then(() => {
-            window.location.href = "/myloan.html";
+            window.location.href = "myloan.html";
         });
     
       
